@@ -1,28 +1,16 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Markdown 文件查看器</title>
-    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <title>Tian's Blog</title>
+    <meta charset="UTF-8">
 </head>
 <body>
-    <h1>my file</h1>
+    <h1>个人日记本</h1>
     <ul>
-        <li><a href="#" onclick="loadMarkdown('./README.md')">file 1</a></li>
-        <!-- <li><a href="#" onclick="loadMarkdown('file2.md')">文件 2</a></li>
-        <li><a href="#" onclick="loadMarkdown('file3.md')">文件 3</a></li> -->
+        记录一下每天干了什么事情，防止摸鱼并在摸鱼后能反省一下（或许）
+        <br><a href="./semester6/week1.html">大三下学期第一周</a>&nbsp&nbsp
+        <a href="./semester6/week2.html">大三下学期第二周</a>&nbsp&nbsp
+        <!-- <a href="./March.html">大三下学期第三周</a>&nbsp&nbsp -->
     </ul>
-
-    <div id="content" style="border: 1px solid #ccc; padding: 10px; margin-top: 20px;"></div>
-
-    <script>
-        function loadMarkdown(path) {
-            fetch(path).then(response => response.text()).then(text => {
-                document.getElementById('content').innerHTML = marked(text);
-            }).catch(err => {
-                console.error(err);
-                alert("fail to load");
-            });
-        }
-    </script>
 </body>
 </html>
