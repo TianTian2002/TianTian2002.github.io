@@ -1,39 +1,31 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Tian's Blog</title>
-    <meta charset="UTF-8">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>首页访问</title>
 </head>
 <body>
-    <h1>个人日记本</h1>
-    <ul>
-        记录一下每天干了什么事情，防止摸鱼并在摸鱼后能反省一下（或许）
-        <br><a href="./semester6/week1.html">大三下学期第一周</a>&nbsp&nbsp
-        <a href="./semester6/week2.html">大三下学期第二周</a>&nbsp&nbsp
-        <a href="./semester6/week3.html">大三下学期第三周</a>&nbsp&nbsp
-        <a href="./semester6/week4.html">大三下学期第四周</a>&nbsp&nbsp
-        <a href="./semester6/week5.html">大三下学期第五周</a>&nbsp&nbsp
-    </ul>
-    <hr />
-    <h1>未来要做的事情</h1>
-    <ul>
-        把一些想法和重要的想做的事情记录下来，防止忘掉了
-        <br><a href="./futureTODO/future.html">未来的TODO清单</a>
-    </ul>
-    <hr />
-    <h1>申请相关的计划</h1>
-    <ul>
-        <br><a href="./futureTODO/PreparationBeforeApply.html">申请相关的准备</a>
-    </ul>
-    <hr />
-    <h1>找实习的各家面经</h1>
-    <ul>
-        <br><a href="./internship/main.html">大三找实习面经</a>
-    </ul>
-    <hr />
-    <h1>上过的重要的课的整理</h1>
-    <ul>
-        <br><a href="./coursesTaken/main.html">上过的重要的课</a>
-    </ul>
+  <h2>这里并不是什么有趣的地方：</h2>
+  <form id="passwordForm" action="#" onsubmit="return validatePassword()">
+    <input type="password" id="passwordInput" placeholder="Enter password" required>
+    <button type="submit">Submit</button>
+  </form>
+
+  <script>
+    function validatePassword() {
+      var password = document.getElementById('passwordInput').value;
+      // 在这里替换成你的正确密码
+      var correctPassword = "youxihal";
+      
+      if (password === correctPassword) {
+        window.location.href = "./begin.html";
+      } else {
+        
+      }
+      
+      return false; // 防止表单提交
+    }
+  </script>
 </body>
 </html>
