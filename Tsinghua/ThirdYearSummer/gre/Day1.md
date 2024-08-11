@@ -91,7 +91,9 @@
   - strident slogans
 - voracious
   - she has a voracious appetite for knowledge
-- Preciosity 矫揉造作，道貌岸然
+- Preciosity
+  - The novel avoids preciosity by using plain language.
+
 - incriminate
   - material found at the crime scene incriminates the defendant(被告)
 - tendentious
@@ -136,7 +138,10 @@
   - she has a diffident manner(态度)
 - ideology
   - progressive ideologies
-- extemporaneous 即兴的，无准备的
+- extemporaneous
+  - an extemporaneous speech
+
+
 - foreshadow
   - the hero's predicament(困境) is foreshadowed in the first chapter
 - vituperation
@@ -163,7 +168,7 @@
   - the reward spurred them to work harder
   - lower interest rates should spur economic growth
 - suspense
-  - she kept gim in suspense for two whole days before she agreed to marry him
+  - she kept him in suspense for two whole days before she agreed to marry him
 - phlegmatic
   - she was phlegmatic even during the most difficult moments of the crisis
 - complementary

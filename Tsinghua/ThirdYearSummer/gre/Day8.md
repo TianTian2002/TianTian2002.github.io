@@ -2,17 +2,199 @@
 
 ## list29
 
-
+- ambivalent
+  - he felt ambivalent about his job
+- augment
+  - the money augmented his fortune
+  - Job training will augment the class work
+- equanimity
+  - she accepted her misfortunes with equanimity
+- impartial
+  - an impartial analysis of the case
+- solicitous
+  - I appreciated his solicitous inquiry about my health
+- exiguous
+  - the rest of the old man's exiguous savings are donated to that boy
+- hybrid
+  - a hybrid of two roses
+  - the band plays a hybrid of jazz and rock
+- haphazard
+  - a haphazard procedure
+- consolidate
+  - the two companies consolidated
+  - Rebel(反叛的) forces have consolidated their hold on the region
+- cyclical
+  - there is also a cyclical pattern in fashion
+- paucity
+  - a paucity of evidence
+- engender
+  - the issue has engendered a considerable amount of debate
+- discredit
+  - many of his theories have been thoroughly discredited
+  - an attempt to discredit the governor(州长)
+  - his criminal activities brought discredit on his family
+- beguile
+  - they were beguiled into thinking they'd heard the whole story
+  - I was beguiled by his voice
+- resolution
+  - we found a resolution to the dispute(纠纷)
+  - Computer screens with high resolutions
+  - he made a resolution to lose weight
+  - the assembly(决策机构) passed a resolution calling for the university president to step down
+  - the resolution of the plot
+- anonymous
+  - the donor wishes to remain anonymous
+  - the reporter got an anonymous tip
+  - she works in an anonymous brick building
+- tout
+  - the college's much touted women's studies program
+  - Vendors touting their wares(商品)
+- abnegate
+  - he is going to abnegate his plan
+- encrypt
+  - the passwords are encrypted
+- cede
+  - the state had to cede part of their territory
 
 ## list30
 
-
+- pastiche
+  - with this work she goes beyond pastiche
+  - the research paper was essentially a pastiche made up of passages from different sources
+- regal
+  - a ceremony of regal splendor(壮观 splendid)
+- Denouement
+  - the competition's exciting denouement
+- negate
+  - the fact that she lied about her work experience negated the contract
+  - a verb that is negated by "not"
+- timorous
+  - a shy and timorous teenager
+- spurious
+  - Spurious gems
+  - spurious claims
+- artificial
+  - artificial lighting
+  - artificial price inflation
+  - an artificial smile
+- turbulent
+  - turbulent waters caused the boat to capsize(倾覆)
+  - a turbulent relationship
+- infer
+  - it's difficult to infer how these changes will affect ordinary citizens
+  - are you inferring that I'm wrong？
+-  flout
+  - Flouting convention
+- adjure
+  - he adjured his followers to remain faithful to the cause
+- concede
+  - I concede that the work has been slow so far, but it should speed up soon
+  - He's not ready to concede the election
+  - the former ruler was forced to concede power to a new government
+  - the team has not conceded a goal this half
+- mitigate
+  - Mitigate a punishment
+- explicate
+  - explicate a poem
+- extravagance
+  - his extravagance with money
+  - that coat is an extravagance that you can't afford
+  - I was shocked by the extravagance of their lifestyles
+- prolix
+  - a somewhat prolix writer
+- jettison
+  - the captain gave orders to jettison the cargo(货物)
+  - they jettisoned plans for a vacation
+- disinclined
+  - I'm disinclined to accept her explanation
+- economical
+  - ideas for economical housekeeping
+  - the company is making smaller, more economical cars
+- surpass
+  - she soon surpassed her teacher in skill proficiency
 
 ## list31
 
-
+- apposite
+  - each panel(讨论小组) member made remarks apposite to the discussion
+- mordant
+  - a writer famous for her mordant humor
+- unwieldy
+  - Unwieldy prose(散文)
+- boor
+  - I can't invite a boor like him to dinner!
+  - boorish and aggressive
+- rhetoric
+  - Angry rhetoric
+  - classical rhetoric
+- avert
+  - with averted eyes
+  - he sped up and averted an accident
+- disparate
+  - music that combines disparate elements
+- complacent
+  - a complacent smirk(假笑)
+- blithe
+  - he was blithe about the risks to his health
+  - a blithe spirit
+- accommodate
+  - over 600 people can be accommodated on the cruise ship(大型游轮)
+  - he would often change his schedule to accommodate his clients
+  - Smart investors quickly accommodated to the new market conditions
+- encumber
+  - encumbered by equipment and supplies
+  - lack of funding has encumbered the project
+- fecund
+  - she has a fecund imagination
+- reciprocal
+  - the plan will only work if both sides fulfill their reciprocal obligations
+- implicate
+  - the evidence implicated many government officials in the conspiracy(阴谋)
+- bifurcate
+  - the stream bifurcated into two narrow winding channels
+- equivalent
+  - an equivalent amount of money
+  - a Chinese word for which English has no equivalent
+- Soft-pedal
+  - I'm not trying to soft-pedal the issue
+- insatiable
+  - an insatiable appetite
+- recede
+  - the floodwaters slowly receded
+  - we listened as the sound of the sirens receded into the distance
 
 ## list32
 
+- encomium
+  - The poet's latest work is an encomium to nature, celebrating the beauty and serenity of the nature world
+- meritorious
+  - a meritorious achievement
+- virulent
+  - virulent racists
+  - a virulent disease
+- indigenous
+  - he grows a wide variety of both indigenous and exotic(外来的) plants
+- authoritarian
+  - they had authoritarian parents
+- gainsay
+  - there is no gainsaying such evidence
 
+- contentious
+  - I think it's wise to avoid such a highly contentious topic at a dinner party
+  - a contentious student
+- guileless
+  - a guileless person
+- venerate
+  - she is venerated as a saint
+- lexical
+  - the lexical content of a statement
+- anomalous
+  - Researchers could not explain the anomalous test results
 
+- synergy
+  - two companies that have found synergy
+- displace
+  - many of the company's workers were displaced by machines
+  - animals displaced by wildfire
+- exalt
+  - his behavior has exalted the power and presitige of his office

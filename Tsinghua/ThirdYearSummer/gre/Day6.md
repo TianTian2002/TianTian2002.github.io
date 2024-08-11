@@ -54,12 +54,15 @@
 
 ## list22
 
-- hedonism 享乐主义
+- hedonism
+  - he pursued a life of unbridled(肆无忌惮的) hedonism
+
+
 - revelation
   - damaging personal revelations
   - revelations by the newspaper caused a scandal(丑闻)
   - her talent came as a revelation
-  - a devine revelation 神示
+  - a devine(神的) revelation
 
 - enervate
   - the government was enervated by corruption(贪腐)
@@ -102,16 +105,172 @@
 
 - scrupulous
   - they were scrupulous in their testing
-  - Less scrupulous 
+  - Less scrupulous companies find ways to evade(逃避) the law
+- rescind
+  - the navy rescinded its ban on women sailors
+- ramification
+  - they discussed the possible ramifications of the new treaty
+- paraphrase
+  - he paraphrased the quote
+  - this is just a paraphrase of what he said, not a exact quote
+- catastrophic
+  - the effect of the war on the economy was catastrophic
+- tonic
+  - to her, classical music is a tonic
+- innocuous
+  - an innocuous question
+  - an innocuous gas
 
 
 ## list23
 
-- 
-- 
+- antidote
+  - there is no antidote to this poison
+  - for him, racing motorcycles is a great antidote to boredom
+
+- generic
+  - "flu" is sometimes used as a generic name for any illness caused by a virus
+  - generic drugs
+
+- acerbic
+  - acerbic comedy
+
+- imperturbable
+  - an imperturbable disposition(性格)
+
+- dampen
+  - dampen the spot with a wet cloth
+  - the shower barely dampened the ground
+  - the experience dampened her interest in becoming a doctor
+
+- waive
+  - she waived her right to a lawyer
+
+- discreet
+  - he maintained a discreet silence
+  - a photographer followed the bride and groom at a discreet distance
+
+- fleet
+  - she was the commander of the Pacific fleet
+  - a fishing fleet
+  - she is very fleet of foot	
+
+- shun
+  - he shuns parties and social events
+
+- adroit
+  - an adroit negotiator
+
+- disparage
+  - it's a mistake to disparage their achievements
+
+- impugn
+  - he impugned his rivals character
+
+- consequential
+  - the change to the schedule is not consequential
+  - the company is considering layoffs but hopes to avoid a consequantial loss in productivity
+
+- ungainly
+  - a large, ungainly animal
+
+- resourceful
+  - a resourceful leader
+
+- escalate
+  - we are trying not to escalate the violence
+  - an effort to combat(压低) escalating costs
+
+- benevolent
+  - a gift from a benevolent donor
+  - he belonged to several benevolent societies and charitable organizations
+
+- meager
+  - meager wages
+  - they suffered through several meager years at the beginning of their marriage
+
+- defer
+  - the accoutant advised us not to defer our taxes
+  - deferring to the experts
+  - he deferred to his parents' wishes
+
+- acquittal
+  - several jurors(陪审员) voted for acquittal
+
 
 ## list24
 
-- 
-- 
+- enterprise
+  -  a criminal enterprise
+  - the new regulations are intended to encourage the growth of small, independent enterprises
+  - she showed great enterprise as a young reporter
+
+- temper
+  - Tempers flared and a fight broke out
+  - he is in a pleasant temper
+  - her novels capture the temper of the times
+  - higher interest rates have tempered the demand for new houses
+
+- loquacious
+  - the loquacious host of a radio talk show
+
+- stratified
+  - Stratified rock
+  - Stratified societies
+
+- obtrude
+  - she didn't want to obtrude on their conversation
+
+- deplore
+  - many people deplored the change
+
+- detach
+  - during the accident the trailer(拖车) was detached from the car
+  - it can be difficult to detach yourself from the chaos of the situation
+
+- lurid
+  - lurid tabloid(小报) headlines
+  - a lurid neon(霓虹) sign
+
+- doodle
+  - she doodled in her notebook instead of taking notes
+
+- celerity
+  - a journalist who writes his well-crafted stories with remarkable celerity
+
+- mock
+  - the boys mocked him for showing fear
+  - he mocks art only because he doesn't understand it
+  - "I'd love to go," he said with a mock smile
+  - two boys started a mock fight in the hallway
+
+- perishable
+  - perishable foods
+
+- acute
+  - an acute fuel shortage
+  - an acute observer
+  - acute symptoms
+  - an acute angle
+
+- corollary
+  - a corollary of increased poverty is more crime
+
+- embellish
+  - a book embellished with colorful illustrations
+
+- insular
+  - an insular group
+
+- precursor
+  - Rhythm and blues was a precursor of rock music
+
+- base
+  - base motives
+
+- incisive
+  - an incisive analysis
+
+- comity
+  - He doesn't want compromise(妥协) and comity
 

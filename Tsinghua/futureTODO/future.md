@@ -25,6 +25,12 @@
   - 尤其是看看中国的人
 - 弄明白中国和美国的政治制度到底是什么样子的
 - 以及中国和美国的金融市场、经济体系是什么样的
+- 对于量化的工作
+  - 不要去sell-side，sell-side中没有真正的quant，或者说quant永远不是主体
+  - 要去buy-side，你可以从buy-side转到sell-side，buy-side的wlb更好
+  - buy-side更加关注你的数学，sell-side重点是connection，越高频工作内容就越数学
+  - 但是quant中没有真正的不可替代性，工作也并不是稳定的，收益不好或者公司不好就会被开除
+
 
 ### 正经找工作的
 
