@@ -197,4 +197,22 @@
   - many of the company's workers were displaced by machines
   - animals displaced by wildfire
 - exalt
-  - his behavior has exalted the power and presitige of his office
+  - his behavior has exalted the power and presitige(声望) of his office
+  - the party will continue to exalt their hero
+
+- delineate
+  - the report clearly delineates the steps that must be taken
+- versatile
+  - she is a versatile athlete who participates in many differents sports
+  - a pocketknife is a versatile tool
+- profligate
+  - profligate energy use
+- hidebound
+  - a hidebound conservative(保守派)
+
+- exotic
+  - exotic colors
+  - exotic plants
+  - some native species are being crowded out(排挤) by exotics
+- spartan
+  - they lived in spartan conditions
