@@ -50,9 +50,29 @@
 
 ## Day2
 
-- 
+- callous
+  - a very callous remark
+- esoteric深奥的
+  - Esoteric concepts
+  - esoteric pursuits
+- ulterior
+  - I think she has an ulterior motive for helping us
+- obsolete过时的
+  - Obsolete computers
+- salubrious
+  - a salubrious climate
+- espouse支持
+  - those espousing unpopular views were often excluded
+- precarious
+  - she was in a state of precarious health
+- dwindle 逐渐减少
+  - dwindling resources / numbers
 
+- elegy 挽歌，哀歌
+  - Cindy's elegy recalls her youth and that of her sister
 
+- trivial 微不足道的
+  - a trivial sum of money
 
 
 
